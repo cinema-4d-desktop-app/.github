@@ -17,7 +17,7 @@ Run the `.exe` file to start the application.
 ## 📸 Overview
 A quick look at key parts in action:
 
-![Main Workspace](https://www.provideocoalition.com/wp-content/uploads/cinema4dr21_000-1024x800.jpg)  
+![Main Workspace](https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/99b1c8f5-20b3-40ef-b853-de61e1b4e734.png?auto=format&q=50)  
 ![Modeling Tools](https://postperspective.com/wp-content/uploads/2020/04/Cinema-4D-S22_Features_Viewport-Improvements_3_Hair.png)  
 
 ---
